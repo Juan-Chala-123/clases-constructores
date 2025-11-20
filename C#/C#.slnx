@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="clases-abstractas/clases-abstractas.csproj" Id="078c5505-ecd7-4045-a593-cec9a88a280f" />
+  <Project Path="clases/clases.csproj" Id="7a614114-cd14-4185-a643-b1b55c24a6b3" />
+  <Project Path="interfaces/interfaces.csproj" Id="deef5212-fe56-4ce1-aab8-0f27632a1fff" />
+</Solution>

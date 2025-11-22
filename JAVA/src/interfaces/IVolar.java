@@ -8,7 +8,6 @@ package interfaces;
  *
  * @author CHALA RAMIREZ
  */
-public interface IVehiculo {
-    void arrancar();
-    void detener();
+public interface IVolar {
+    void volar();
 }

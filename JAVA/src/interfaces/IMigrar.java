@@ -9,5 +9,5 @@ package interfaces;
  * @author CHALA RAMIREZ
  */
 public interface IMigrar {
-    void nadar();
+    void migrar();
 }

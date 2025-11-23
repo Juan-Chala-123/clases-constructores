@@ -9,5 +9,5 @@ package interfaces;
  * @author CHALA RAMIREZ
  */
 public interface IHabitat {
-    void comer();
+    void habitat();
 }

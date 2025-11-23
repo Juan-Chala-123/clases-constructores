@@ -19,26 +19,7 @@ public abstract class Aves{
         this.color = color;
         this.pico = pico;
     }
-    
-    // Constructor sin parametros
-    public Aves() {
-        this.nombre = "Michi";
-        this.color = "Blanco";
-        this.pico = "Conico";
-    }
-    
-    // Constructor copia
-    public Aves(Aves a) {
-        this.nombre = a.nombre;
-        this.color = a.color;
-        this.pico = a.pico;
-    }
-    
-    // Destructor
-    public void finalize() {
-        System.out.println("Codigo Borrado.");
-    }
-    
+       
     // Metedo abstracto
     public abstract void ponerHuevo();
 }

@@ -14,8 +14,10 @@ public abstract class Peces {
     public byte branquias; // Cantidad
     
     // Constructor con parametros
-    public Peces(String nombre) {
+    public Peces(String nombre, byte aletas, byte branquias) {
         this.nombre = nombre;
+        this.aletas = aletas;
+        this.branquias = branquias;
     }
     
     // Metodo abstracto

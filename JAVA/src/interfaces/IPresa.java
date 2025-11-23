@@ -9,5 +9,5 @@ package interfaces;
  * @author CHALA RAMIREZ
  */
 public interface IPresa {
-    void sangre();
+    void presa();
 }

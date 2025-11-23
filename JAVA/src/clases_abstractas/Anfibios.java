@@ -8,6 +8,15 @@ package clases_abstractas;
  *
  * @author CHALA RAMIREZ
  */
-public class Anfibios {
+public abstract class Anfibios {
+    public String nombre;
+    public String piel;
     
+    // Constructor con parametros
+    public Anfibios(String nombre, String piel) {
+        this.nombre = nombre;
+        this.piel = piel;
+    }
+    
+    public abstract void metamorforsis();
 }

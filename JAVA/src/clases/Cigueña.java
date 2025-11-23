@@ -23,7 +23,7 @@ public class Cigueña extends Aves implements IVolar, IMigrar, IHabitat {
     // Constructor sin parametros
     public Cigueña() {
         super("", "", "");
-        this.nombre = "Michi";
+        this.nombre = "Cigueña";
         this.color = "Blanco";
         this.pico = "Conico";
     }
@@ -43,7 +43,7 @@ public class Cigueña extends Aves implements IVolar, IMigrar, IHabitat {
     
     @Override
     public void ponerHuevo() {
-        System.out.println("");
+        System.out.println("Ponen entre 5 y 10");
     }
 
     @Override

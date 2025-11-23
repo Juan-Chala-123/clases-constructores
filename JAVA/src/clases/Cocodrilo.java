@@ -22,7 +22,7 @@ public class Cocodrilo extends Reptiles implements IReproducirse, IHabitat {
     // Constructor sin parametros
     public Cocodrilo() {
         super("", "");
-        this.nombre = "Cocodrilo 1";
+        this.nombre = "Cocodrilo Dante";
         this.piel = "Piel seca y escamosa";
     }
     

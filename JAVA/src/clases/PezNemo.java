@@ -31,9 +31,9 @@ public class PezNemo extends Peces implements IHabitat, IReproducirse, IPresa, I
     
     // Constructor copia
     public PezNemo(PezNemo p) {
-        super("", (byte) 4, (byte) 2);
+        super("", (byte) 0, (byte) 0);
         this.nombre = p.nombre;
-        this.branquias = p.branquias;
+        this.aletas = p.aletas;
         this.branquias = p.branquias;
     }
     

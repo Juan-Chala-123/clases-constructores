@@ -22,7 +22,7 @@ public class Caballo extends Mamiferos implements IHabitat, IReproducirse {
     // Constructor sin parametros
     public Caballo() {
         super("", (byte) 12);
-        this.nombre = "Caballo 1";
+        this.nombre = "Pegaso";
         this.edad = 12;
     }
     

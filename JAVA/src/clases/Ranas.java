@@ -42,7 +42,7 @@ public class Ranas extends Anfibios implements IHabitat, IReproducirse, IPresa {
     // Metodos sobreescritos
     @Override
     public void metamorforsis() {
-        System.out.println("Proceso de transformación en cuatro etapas principales: huevo, renacuajo, renacuajo con patas y rana adulta.");
+        System.out.println("Proceso de transformacion en cuatro etapas principales: huevo, renacuajo, renacuajo con patas y rana adulta.");
     }
 
     // Metodos implementados de las interfaces

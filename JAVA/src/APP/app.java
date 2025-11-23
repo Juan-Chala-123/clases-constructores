@@ -108,7 +108,7 @@ public class App {
         
         // Instancia de la clase Ranas
         System.out.println("\n\nPez Nemo - Pez");
-        Ranas r1 = new Ranas("Príncipe Naveen", "Verde oliva con variaciones de tono en el cuerpo");
+        Ranas r1 = new Ranas("Principe Naveen", "Verde oliva con variaciones de tono en el cuerpo");
         Ranas r2 = new Ranas();
         Ranas r3 = new Ranas(r1);
         

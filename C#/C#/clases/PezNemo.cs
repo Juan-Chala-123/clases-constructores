@@ -33,28 +33,29 @@ namespace C_.clases
             Console.WriteLine("Destructor...");
         }
 
+        // Metodo de la clase padre sobreescrito
         public override void escamas()
         {
             Console.WriteLine("Tiene escamas.");
         }
 
         // Metodos implementados de las interfaces
-        public override void habitat()
+        public void habitat()
         {
             Console.WriteLine("Mares y Oceanos.");
         }
 
-        public override void reproducirse()
+        public void reproducirse()
         {
             Console.WriteLine("Reproduccion Ovipara, Vivipara y Ovovivipara.");
         }
 
-        public override void presa()
+        public void presa()
         {
             Console.WriteLine("Animales mas grandes dentro del mar. Como tambien es presa de los humanos.");
         }
 
-        public override void migrar()
+        public void migrar()
         {
             Console.WriteLine("Migran por diversas ocasiones.");
         }

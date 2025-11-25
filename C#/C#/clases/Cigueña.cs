@@ -34,22 +34,24 @@ namespace C_.clases
             Console.WriteLine("Destructor...");
         }
 
+        // Metodo de la clase padre sobreescrito
         public override void ponerHuevo()
         {
             Console.WriteLine("Ponen entre 5 y 10");
         }
 
-        public override void volar()
+        // Metodos de las interfaces implementados
+        public void volar()
         {
             Console.WriteLine("La ave vuela.");
         }
 
-        public override void migrar()
+        public void migrar()
         {
             Console.WriteLine("Migran por alimento, reproduccion y evitar el clima extremo.");
         }
 
-        public override void habitat()
+        public void habitat()
         {
             Console.WriteLine("Bosques, Ecosistemas acuáticos...");
         }

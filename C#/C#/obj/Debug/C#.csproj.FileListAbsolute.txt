@@ -1,2 +1,7 @@
 C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
 C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\bin\Debug\C#.exe.config
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\bin\Debug\C#.exe
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\bin\Debug\C#.pdb
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.exe
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.pdb

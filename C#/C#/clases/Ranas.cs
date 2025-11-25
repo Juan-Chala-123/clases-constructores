@@ -38,17 +38,17 @@ namespace C_.clases
         }
 
         // Metodos implementados de las interfaces
-        public override void habitat()
+        public void habitat()
         {
             Console.WriteLine("Lugares frescos y húmedos.");
         }
 
-        public override void reproducirse()
+        public void reproducirse()
         {
             Console.WriteLine("Se reproducen sexualmente.");
         }
 
-        public override void presa()
+        public void presa()
         {
             Console.WriteLine("Son presas de las aves y serpientes.");
         }

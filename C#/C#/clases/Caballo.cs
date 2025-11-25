@@ -39,12 +39,12 @@ namespace C_.clases
         }
 
         // Metodos implementados de las interfaces
-        public override void habitat()
+        public void habitat()
         {
             Console.WriteLine("De acuerdo a sus origenes, como tambien de manera global.");
         }
 
-        public override void reproducirse()
+        public void reproducirse()
         {
             Console.WriteLine("Se reproducen sexualmente.");
         }

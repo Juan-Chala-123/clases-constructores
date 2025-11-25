@@ -38,12 +38,12 @@ namespace C_.clases
         }
 
         // Metodos implementados de las Interfaces
-        public override void reproducirse()
+        public void reproducirse()
         {
             Console.WriteLine("Se reproducen sexualmente, son oviparos.");
         }
 
-        public override void habitat()
+        public void habitat()
         {
             Console.WriteLine("Rios.");
         }

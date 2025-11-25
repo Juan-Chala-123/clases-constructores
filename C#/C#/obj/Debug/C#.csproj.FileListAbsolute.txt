@@ -1,0 +1,2 @@
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\CHALA RAMIREZ\Desktop\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\INSTRUCTOR CORREDOR\Trabajos\POO\clases-constructores\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache

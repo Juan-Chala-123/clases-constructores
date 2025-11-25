@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{078C5505-ECD7-4045-A593-CEC9A88A280F}|clases-abstractas\\clases-abstractas.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases-abstractas\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{078C5505-ECD7-4045-A593-CEC9A88A280F}|clases-abstractas\\clases-abstractas.csproj|solutionrelative:clases-abstractas\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\clases\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\clases\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEEF5212-FE56-4CE1-AAB8-0F27632A1FFF}|interfaces\\interfaces.csproj|c:\\users\\chala ramirez\\desktop\\sena - tecnologo en analisis y desarrollo de software\\instructor corredor\\trabajos\\poo\\clases-constructores\\c#\\interfaces\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEEF5212-FE56-4CE1-AAB8-0F27632A1FFF}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\interfaces\\ireproducirse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\interfaces\\ireproducirse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A614114-CD14-4185-A643-B1B55C24A6B3}|clases\\clases.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A614114-CD14-4185-A643-B1B55C24A6B3}|clases\\clases.csproj|solutionrelative:clases\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\clases\\cigue\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\clases\\cigue\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEEF5212-FE56-4CE1-AAB8-0F27632A1FFF}|interfaces\\interfaces.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEEF5212-FE56-4CE1-AAB8-0F27632A1FFF}|interfaces\\interfaces.csproj|solutionrelative:interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\clases\\ranas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\clases\\ranas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\clases\\peznemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\clases\\peznemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|c:\\users\\chala ramirez\\desktop\\sena - tecnologo en analisis y desarrollo de software\\instructor corredor\\trabajos\\poo\\clases-constructores\\c#\\c#\\clases\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\clases\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDA7D0-43C2-4B1B-B0F8-ACE233A1D96A}|C#\\C#.csproj|solutionrelative:c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Gato.cs",
-              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases\\Gato.cs",
-              "RelativeDocumentMoniker": "clases\\Gato.cs",
-              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases\\Gato.cs",
-              "RelativeToolTip": "clases\\Gato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\Program.cs",
+              "RelativeDocumentMoniker": "C#\\Program.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\Program.cs",
+              "RelativeToolTip": "C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:26:25.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T17:54:33.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\interfaces\\IAnimal.cs",
-              "RelativeDocumentMoniker": "interfaces\\IAnimal.cs",
-              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\interfaces\\IAnimal.cs",
-              "RelativeToolTip": "interfaces\\IAnimal.cs",
+              "Title": "Ranas.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Ranas.cs",
+              "RelativeDocumentMoniker": "C#\\clases\\Ranas.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Ranas.cs",
+              "RelativeToolTip": "C#\\clases\\Ranas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:25:06.042Z",
+              "WhenOpened": "2025-11-24T17:50:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cocodrilo.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Cocodrilo.cs",
+              "RelativeDocumentMoniker": "C#\\clases\\Cocodrilo.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Cocodrilo.cs",
+              "RelativeToolTip": "C#\\clases\\Cocodrilo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:46:50.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PezNemo.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\PezNemo.cs",
+              "RelativeDocumentMoniker": "C#\\clases\\PezNemo.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\PezNemo.cs",
+              "RelativeToolTip": "C#\\clases\\PezNemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:38:56.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cigue\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Cigue\u00F1a.cs",
+              "RelativeDocumentMoniker": "C#\\clases\\Cigue\u00F1a.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Cigue\u00F1a.cs",
+              "RelativeToolTip": "C#\\clases\\Cigue\u00F1a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T02:35:13.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\interfaces\\IVehiculo.cs",
-              "RelativeDocumentMoniker": "interfaces\\IVehiculo.cs",
-              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\interfaces\\IVehiculo.cs",
-              "RelativeToolTip": "interfaces\\IVehiculo.cs",
+              "Title": "IReproducirse.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\interfaces\\IReproducirse.cs",
+              "RelativeDocumentMoniker": "C#\\interfaces\\IReproducirse.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\interfaces\\IReproducirse.cs",
+              "RelativeToolTip": "C#\\interfaces\\IReproducirse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:23:54.313Z",
+              "WhenOpened": "2025-11-24T02:34:52.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases-abstractas\\Animal.cs",
-              "RelativeDocumentMoniker": "clases-abstractas\\Animal.cs",
-              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\clases-abstractas\\Animal.cs",
-              "RelativeToolTip": "clases-abstractas\\Animal.cs",
+              "Title": "Caballo.cs",
+              "DocumentMoniker": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Caballo.cs",
+              "RelativeDocumentMoniker": "C#\\clases\\Caballo.cs",
+              "ToolTip": "C:\\Users\\CHALA RAMIREZ\\Desktop\\SENA - TECNOLOGO EN ANALISIS Y DESARROLLO DE SOFTWARE\\INSTRUCTOR CORREDOR\\Trabajos\\POO\\clases-constructores\\C#\\C#\\clases\\Caballo.cs",
+              "RelativeToolTip": "C#\\clases\\Caballo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:14:14.308Z",
+              "WhenOpened": "2025-11-24T02:28:08.072Z",
               "EditorCaption": ""
             }
           ]

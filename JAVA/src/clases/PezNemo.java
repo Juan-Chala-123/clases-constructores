@@ -60,7 +60,7 @@ public class PezNemo extends Peces implements IHabitat, IReproducirse, IPresa, I
 
     @Override
     public void presa() {
-        System.out.println("Animales mas grandes dentro del mar. Como tambien es presa de los humanos.");
+        System.out.println("Animales mas grandes dentro del mar. Como tambien son presa de los humanos.");
     }
 
     @Override

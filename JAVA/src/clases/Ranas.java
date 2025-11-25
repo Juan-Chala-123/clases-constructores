@@ -59,6 +59,5 @@ public class Ranas extends Anfibios implements IHabitat, IReproducirse, IPresa {
     @Override
     public void presa() {
         System.out.println("Son presas de las aves y serpientes.");
-    }
-    
+    }   
 }

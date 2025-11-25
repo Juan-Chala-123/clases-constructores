@@ -67,5 +67,4 @@ public class PezNemo extends Peces implements IHabitat, IReproducirse, IPresa, I
     public void migrar() {
         System.out.println("Migran por diversas ocasiones.");
     }
-    
 }

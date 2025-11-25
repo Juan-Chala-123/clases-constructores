@@ -22,5 +22,5 @@ public abstract class Reptiles {
     
     public void sangre() {
         System.out.println("Sangre fria.");
-    };
+    }
 }
